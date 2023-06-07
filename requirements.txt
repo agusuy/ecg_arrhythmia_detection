@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+tensorflow==2.11
+notebook
+imbalanced-learn
+keras_tuner
